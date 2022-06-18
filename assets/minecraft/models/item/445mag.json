@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/magazine_holder",
+	"textures": {
+		"0": "item/gun_barrel_shoot",
+		"particle": "item/gun_barrel_shoot"
+	},
+	"elements": [
+		{
+			"from": [5.9, 0, 2],
+			"to": [8.65, 1, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 2.75, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 7, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 2.75, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 7, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 2.75, 7], "texture": "#0"},
+				"down": {"uv": [0, 0, 2.75, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.66576, 0, 4.89559],
+			"to": [11.41576, 1, 11.79559],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [-0.03424, 0, -0.00441]},
+			"faces": {
+				"north": {"uv": [0, 0, 2.75, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 6.9, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 2.75, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 6.9, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 2.75, 6.9], "texture": "#0"},
+				"down": {"uv": [0, 0, 2.75, 6.9], "texture": "#0"}
+			}
+		}
+	]
+}

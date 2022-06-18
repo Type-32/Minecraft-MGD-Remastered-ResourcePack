@@ -1,0 +1,1218 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit2.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit3.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEff3"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/hit.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEfe1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/firemode/singlefire.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": [
+                "\uEfe0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c0.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaa0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c1.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaa1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c2.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaa2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c3.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaa3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c4.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaa4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c5.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaa5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c6.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaa6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c7.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaa7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c8.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaa8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c9.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaa9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c10.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEab0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c11.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEab1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c12.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEab2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c13.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEab3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c14.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEab4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c15.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEab5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c16.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEab6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c17.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEab7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c18.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEab8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c19.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEab9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c20.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEac0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c21.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEac1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c22.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEac2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c23.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEac3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c24.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEac4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c25.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEac5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c26.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEac6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c27.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEac7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c28.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEac8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c29.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEac9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c30.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEad0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c31.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEad1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c32.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEad2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c33.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEad3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c34.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEad4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c35.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEad5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c36.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEad6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c37.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEad7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c38.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEad8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c39.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEad9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c40.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEae0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c41.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEae1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c42.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEae2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c43.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEae3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c44.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEae4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c45.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEae5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c46.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEae6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c47.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEae7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c48.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEae8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c49.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEae9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c50.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaf0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c51.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaf1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c52.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaf2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c53.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaf3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c54.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaf4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c55.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaf5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c56.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaf6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c57.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaf7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c58.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaf8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c59.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEaf9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c60.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEba0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c61.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEba1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c62.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEba2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c63.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEba3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c64.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEba4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c65.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEba5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c66.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEba6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c67.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEba7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c68.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEba8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c69.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEba9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c70.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbb0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c71.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbb1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c72.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbb2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c73.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbb3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c74.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbb4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c75.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbb5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c76.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbb6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c77.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbb7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c78.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbb8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c79.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbb9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c80.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbc0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c81.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbc1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c82.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbc2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c83.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbc3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c84.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbc4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c85.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbc5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c86.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbc6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c87.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbc7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c88.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbc8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c89.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbc9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c90.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbd0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c91.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbd1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c92.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbd2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c93.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbd3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c94.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbd4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c95.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbd5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c96.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbd6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c97.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbd7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c98.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbd8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c99.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbd9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c100.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c101.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c102.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c103.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c104.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c105.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c106.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c107.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c108.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c109.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/blank_space.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEff8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit1.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEfe1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit2.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEfe2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit3.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEfe3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit4.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEfe4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit5.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEfe5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit6.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEfe6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit7.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEfe7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit8.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEfe8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit9.png",
+            "ascent": 3,
+            "height": 9,
+            "chars": [
+                "\uEfe9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redhit0.png",
+            "ascent": 4,
+            "height": 11,
+            "chars": [
+                "\uEfd0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redhit1.png",
+            "ascent": 4,
+            "height": 11,
+            "chars": [
+                "\uEfd1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redhit2.png",
+            "ascent": 4,
+            "height": 11,
+            "chars": [
+                "\uEfd2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redhit3.png",
+            "ascent": 4,
+            "height": 11,
+            "chars": [
+                "\uEfd3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redhit4.png",
+            "ascent": 4,
+            "height": 11,
+            "chars": [
+                "\uEfd4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redhit5.png",
+            "ascent": 4,
+            "height": 11,
+            "chars": [
+                "\uEfd5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redhit6.png",
+            "ascent": 4,
+            "height": 11,
+            "chars": [
+                "\uEfd6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redhit7.png",
+            "ascent": 4,
+            "height": 11,
+            "chars": [
+                "\uEfd7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redhit8.png",
+            "ascent": 4,
+            "height": 11,
+            "chars": [
+                "\uEfd8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/redhit9.png",
+            "ascent": 4,
+            "height": 11,
+            "chars": [
+                "\uEfd9"
+            ]
+        }
+    ]
+}

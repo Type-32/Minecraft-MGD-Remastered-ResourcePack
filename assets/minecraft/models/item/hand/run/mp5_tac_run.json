@@ -1,0 +1,58 @@
+{
+	"credit": "Made with Blockbench and Model by Type-32",
+	"textures": {
+		"0": "item/tac_hands",
+		"particle": "item/tac_hands"
+	},
+	"elements": [
+		{
+			"name": "right_arm",
+			"from": [10.8, -0.7, 2.7],
+			"to": [22.8, 1.4, 5.7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -0.7, 0]},
+			"faces": {
+				"north": {"uv": [11, 5, 12, 8], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [12, 5, 11, 4], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [13, 5, 14, 8], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [13, 4, 12, 5], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [12, 5, 13, 8], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [10, 5, 11, 8], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [149, -15.5, -93],
+			"translation": [-7.7, 5.85, -3.25]
+		},
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"scale": [0, 0, 0]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"scale": [0, 0, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "hands",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

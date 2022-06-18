@@ -1,0 +1,53 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/clock_00"
+    },
+    "overrides": [
+        {"predicate":{"time": 0.0000000},"model": "item/clock"},{"predicate":{"time":0.0078125},"model":"item/clock_01"},{"predicate":{"time":0.0234375},"model":"item/clock_02"},{"predicate":{"time":0.0390625},"model":"item/clock_03"},{"predicate":{"time":0.0546875},"model":"item/clock_04"},{"predicate":{"time":0.0703125},"model":"item/clock_05"},{"predicate":{"time":0.0859375},"model":"item/clock_06"},{"predicate":{"time":0.1015625},"model":"item/clock_07"},{"predicate":{"time":0.1171875},"model":"item/clock_08"},{"predicate":{"time":0.1328125},"model":"item/clock_09"},{"predicate":{"time":0.1484375},"model":"item/clock_10"},{"predicate":{"time":0.1640625},"model":"item/clock_11"},{"predicate":{"time":0.1796875},"model":"item/clock_12"},{"predicate":{"time":0.1953125},"model":"item/clock_13"},{"predicate":{"time":0.2109375},"model":"item/clock_14"},{"predicate":{"time":0.2265625},"model":"item/clock_15"},{"predicate":{"time":0.2421875},"model":"item/clock_16"},{"predicate":{"time":0.2578125},"model":"item/clock_17"},{"predicate":{"time":0.2734375},"model":"item/clock_18"},{"predicate":{"time":0.2890625},"model":"item/clock_19"},{"predicate":{"time":0.3046875},"model":"item/clock_20"},{"predicate":{"time":0.3203125},"model":"item/clock_21"},{"predicate":{"time":0.3359375},"model":"item/clock_22"},{"predicate":{"time":0.3515625},"model":"item/clock_23"},{"predicate":{"time":0.3671875},"model":"item/clock_24"},{"predicate":{"time":0.3828125},"model":"item/clock_25"},{"predicate":{"time":0.3984375},"model":"item/clock_26"},{"predicate":{"time":0.4140625},"model":"item/clock_27"},{"predicate":{"time":0.4296875},"model":"item/clock_28"},{"predicate":{"time":0.4453125},"model":"item/clock_29"},{"predicate":{"time":0.4609375},"model":"item/clock_30"},{"predicate":{"time":0.4765625},"model":"item/clock_31"},{"predicate":{"time":0.4921875},"model":"item/clock_32"},{"predicate":{"time":0.5078125},"model":"item/clock_33"},{"predicate":{"time":0.5234375},"model":"item/clock_34"},{"predicate":{"time":0.5390625},"model":"item/clock_35"},{"predicate":{"time":0.5546875},"model":"item/clock_36"},{"predicate":{"time":0.5703125},"model":"item/clock_37"},{"predicate":{"time":0.5859375},"model":"item/clock_38"},{"predicate":{"time":0.6015625},"model":"item/clock_39"},{"predicate":{"time":0.6171875},"model":"item/clock_40"},{"predicate":{"time":0.6328125},"model":"item/clock_41"},{"predicate":{"time":0.6484375},"model":"item/clock_42"},{"predicate":{"time":0.6640625},"model":"item/clock_43"},{"predicate":{"time":0.6796875},"model":"item/clock_44"},{"predicate":{"time":0.6953125},"model":"item/clock_45"},{"predicate":{"time":0.7109375},"model":"item/clock_46"},{"predicate":{"time":0.7265625},"model":"item/clock_47"},{"predicate":{"time":0.7421875},"model":"item/clock_48"},{"predicate":{"time":0.7578125},"model":"item/clock_49"},{"predicate":{"time":0.7734375},"model":"item/clock_50"},{"predicate":{"time":0.7890625},"model":"item/clock_51"},{"predicate":{"time":0.8046875},"model":"item/clock_52"},{"predicate":{"time":0.8203125},"model":"item/clock_53"},{"predicate":{"time":0.8359375},"model":"item/clock_54"},{"predicate":{"time":0.8515625},"model":"item/clock_55"},{"predicate":{"time":0.8671875},"model":"item/clock_56"},{"predicate":{"time":0.8828125},"model":"item/clock_57"},{"predicate":{"time":0.8984375},"model":"item/clock_58"},{"predicate":{"time":0.9140625},"model":"item/clock_59"},{"predicate":{"time":0.9296875},"model":"item/clock_60"},{"predicate":{"time":0.9453125},"model":"item/clock_61"},{"predicate":{"time":0.9609375},"model":"item/clock_62"},{"predicate":{"time":0.9765625},"model":"item/clock_63"},{"predicate":{"time":0.9921875},"model":"item/clock"},
+
+        {"predicate":{"custom_model_data":212001},"model":"item/car"},
+        {"predicate":{"custom_model_data":212002},"model":"item/blank"},
+        {"predicate":{"custom_model_data":212003},"model":"item/bullet_shell"},
+        {"predicate":{"custom_model_data":212100},"model":"item/car_charging_station"},
+
+        {"predicate":{"custom_model_data":212101},"model":"item/762mag"},
+        {"predicate":{"custom_model_data":212102},"model":"item/556mag"},
+        {"predicate":{"custom_model_data":212103},"model":"item/009mag"},
+        {"predicate":{"custom_model_data":212104},"model":"item/445mag"},
+        {"predicate":{"custom_model_data":212105},"model":"item/045mag"},
+
+        {"predicate":{"custom_model_data":212106},"model":"item/12mm_guage"},
+        {"predicate":{"custom_model_data":212107},"model":"item/bullet_box"},
+        {"predicate":{"custom_model_data":212200},"model":"item/blueprint"},
+        {"predicate":{"custom_model_data":212201},"model":"item/copper_plate"},
+        {"predicate":{"custom_model_data":212202},"model":"item/iron_plate"},
+
+        {"predicate":{"custom_model_data":212203},"model":"item/cbr27_hull"},
+        {"predicate":{"custom_model_data":212204},"model":"item/cbr27_barrel"},
+        {"predicate":{"custom_model_data":212205},"model":"item/cbr27_uppercover"},
+        {"predicate":{"custom_model_data":212206},"model":"item/cbr27_grip"},
+        {"predicate":{"custom_model_data":212207},"model":"item/cbr27_stock"},
+
+        {"predicate":{"custom_model_data":212208},"model":"item/hatch_piece"},
+        {"predicate":{"custom_model_data":212209},"model":"item/iron_pole"},
+        {"predicate":{"custom_model_data":212210},"model":"item/stock_connector"},
+        {"predicate":{"custom_model_data":212211},"model":"item/gun_barrel"},
+
+        {"predicate":{"custom_model_data":212212},"model":"item/optic_chip"},
+        {"predicate":{"custom_model_data":212213},"model":"item/optic_battery"},
+        {"predicate":{"custom_model_data":212214},"model":"item/copper_cord"},
+        {"predicate":{"custom_model_data":212215},"model":"item/optic_adjuster_knob"},
+        {"predicate":{"custom_model_data":212216},"model":"item/optic_led"},
+        {"predicate":{"custom_model_data":212217},"model":"item/optic_lens_holder"},
+        {"predicate":{"custom_model_data":212218},"model":"item/optic_fiber_lens"},
+        {"predicate":{"custom_model_data":212219},"model":"item/red_dot_sight"},
+        {"predicate":{"custom_model_data":212220},"model":"item/holosight"},
+        {"predicate":{"custom_model_data":212221},"model":"item/ranger_foregrip"},
+        {"predicate":{"custom_model_data":212222},"model":"item/supressor"},
+
+        {"predicate":{"custom_model_data":282001},"model":"item/hand/main/aiming_hand"},
+        {"predicate":{"custom_model_data":282002},"model":"item/hand/main/aiming_fire_hand"}
+
+    ]
+}

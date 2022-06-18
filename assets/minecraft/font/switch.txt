@@ -1,0 +1,90 @@
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c100.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c101.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c102.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c103.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c104.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c105.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c106.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c107.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c108.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/c109.png",
+            "ascent": 20,
+            "height": 25,
+            "chars": [
+                "\uEbe9"
+            ]
+        },

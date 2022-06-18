@@ -1,0 +1,11 @@
+    {"predicate":{"custom_model_data":402412},"model":"item/atch_variants/aiming_fire/asval_rd_aiming_fire"},
+    {"predicate":{"custom_model_data":402413},"model":"item/atch_variants/aiming_fire/asval_rd_grip_aiming_fire"},
+    {"predicate":{"custom_model_data":402414},"model":"item/atch_variants/aiming_fire/asval_rd_grip_ext_aiming_fire"},
+    {"predicate":{"custom_model_data":402415},"model":"item/atch_variants/aiming_fire/asval_rd_ext_aiming_fire"},
+    {"predicate":{"custom_model_data":402416},"model":"item/atch_variants/aiming_fire/asval_grip_aiming_fire"},
+    {"predicate":{"custom_model_data":402417},"model":"item/atch_variants/aiming_fire/asval_grip_ext_aiming_fire"},
+    {"predicate":{"custom_model_data":402418},"model":"item/atch_variants/aiming_fire/asval_ext_aiming_fire"},
+    {"predicate":{"custom_model_data":402419},"model":"item/atch_variants/aiming_fire/asval_holo"},
+    {"predicate":{"custom_model_data":402420},"model":"item/atch_variants/aiming_fire/asval_holo_grip_aiming_fire"},
+    {"predicate":{"custom_model_data":402421},"model":"item/atch_variants/aiming_fire/asval_holo_grip_ext_aiming_fire"},
+    {"predicate":{"custom_model_data":402422},"model":"item/atch_variants/aiming_fire/asval_holo_ext_aiming_fire"}
