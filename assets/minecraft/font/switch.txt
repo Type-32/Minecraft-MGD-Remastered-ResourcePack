@@ -1,12 +1,4 @@
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/ammo_hud/c100.png",
-            "ascent": 20,
-            "height": 25,
-            "chars": [
-                "\uEbe0"
-            ]
-        },
+,
         {
             "type": "bitmap",
             "file": "minecraft:font/ammo_hud/c101.png",
