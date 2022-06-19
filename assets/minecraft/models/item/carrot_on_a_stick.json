@@ -9,6 +9,7 @@
     {"predicate":{"custom_model_data":202003},"model":"item/plane_mg"},
     {"predicate":{"custom_model_data":202004},"model":"item/driving_wheel"},
     {"predicate":{"custom_model_data":202005},"model":"item/night_vision_goggles"},
+    {"predicate":{"custom_model_data":202006},"model":"item/landmine"},
 
     {"predicate":{"custom_model_data":202101},"model":"item/main/mk7"},
     {"predicate":{"custom_model_data":202102},"model":"item/main/cbr27"},

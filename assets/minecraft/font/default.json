@@ -973,6 +973,24 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/chamber_indicator_empty.png",
+            "ascent": 20,
+            "height": 20,
+            "chars": [
+                "\uEff5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ammo_hud/chamber_indicator_loaded.png",
+            "ascent": 20,
+            "height": 20,
+            "chars": [
+                "\uEff6"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/hit1.png",
             "ascent": 3,
             "height": 9,
