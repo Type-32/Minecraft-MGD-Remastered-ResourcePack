@@ -973,20 +973,29 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/ammo_hud/chamber_indicator_empty.png",
+            "file": "minecraft:font/ammo_hud/firemode/chamber_indicator_empty.png",
             "ascent": 20,
-            "height": 20,
+            "height": 25,
             "chars": [
                 "\uEff5"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/ammo_hud/chamber_indicator_loaded.png",
+            "file": "minecraft:font/ammo_hud/firemode/chamber_indicator_loaded.png",
             "ascent": 20,
-            "height": 20,
+            "height": 25,
             "chars": [
                 "\uEff6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/equipment_hud/night_vision_overlay.png",
+            "ascent": 150,
+            "height": 300,
+            "chars": [
+                "\uEff7"
             ]
         },
         {

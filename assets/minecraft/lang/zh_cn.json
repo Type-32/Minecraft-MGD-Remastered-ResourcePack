@@ -43,6 +43,7 @@
     
     "mgdr.item.throwables.grenade":"手榴弹",
     "mgdr.item.throwables.flashbang":"闪光弹",
+    "mgdr.item.deployables.landmine":"反器材地雷",
 
     "mgdr.item.equipment.night_vision_goggles":"夜视仪",
 
@@ -105,6 +106,7 @@
     "mgdr.translate.ammo.no_556mag":"无5.56mm弹匣",
     "mgdr.translate.ammo.no_009mag":"无9mm弹匣",
     "mgdr.translate.ammo.no_045mag":"无4.5mm弹匣",
+    "mgdr.translate.deploy.error":"无法部署!",
     "mgdr.translate.ammo.reloading":"装弹中...",
     "mgdr.translate.ammo.loaded":"装弹完成!",
     "mgdr.translate.ammo.rounds":"发",

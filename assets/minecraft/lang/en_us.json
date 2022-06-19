@@ -44,6 +44,7 @@
     
     "mgdr.item.throwables.grenade":"Grenade",
     "mgdr.item.throwables.flashbang":"Flashbang",
+    "mgdr.item.deployables.landmine":"Landmine",
 
     "mgdr.item.equipment.night_vision_goggles":"Night Vision Goggles",
 
@@ -105,6 +106,7 @@
     "mgdr.translate.ammo.no_556mag":"No Mags (5.56mm) Left",
     "mgdr.translate.ammo.no_009mag":"No Mags (9mm) Left",
     "mgdr.translate.ammo.no_045mag":"No Mags (4.5mm) Left",
+    "mgdr.translate.deploy.error":"Unable to Deploy!",
     "mgdr.translate.ammo.reloading":"Reloading...",
     "mgdr.translate.ammo.loaded":"Loaded!",
     "mgdr.translate.ammo.no_reload":"Unable to Reload!",
