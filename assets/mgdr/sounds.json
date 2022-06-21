@@ -78,5 +78,7 @@
 	"common.bullet_fly_by":       {"sounds": ["mgdr:common/flyby01", "mgdr:common/flyby02", "mgdr:common/flyby03", "mgdr:common/flyby04", "mgdr:common/flyby05"]},
     "common.rocket_fly_by":       {"sounds": ["mgdr:common/rocket_flyby01", "mgdr:common/rocket_flyby02"]},
     "common.explode_far":         {"sounds": ["mgdr:common/explode_far0", "mgdr:common/explode_far1", "mgdr:common/explode_far2"]},
-    "common.reload_generic":      {"sounds": ["mgdr:common/reload_generic"]}
+    "common.reload_generic":      {"sounds": ["mgdr:common/reload_generic"]},
+    "common.night_vision_on":      {"sounds": ["mgdr:others/night_vision_on"]},
+    "common.night_vision_off":      {"sounds": ["mgdr:others/night_vision_off"]}
 }

@@ -8,8 +8,8 @@
 	},
 	"elements": [
 		{
-			"from": [8.4, 3, -1],
-			"to": [16.4, 3.3, 4],
+			"from": [5.4, 3, 4],
+			"to": [13.4, 3.3, 9],
 			"rotation": {"angle": -22.5, "axis": "y", "origin": [0, 0, 0]},
 			"faces": {
 				"north": {"uv": [0, 0, 8, 0.3], "texture": "#3"},
@@ -1360,7 +1360,8 @@
 			"translation": [0, 5.75, -2.25]
 		}
 	},
-	"groups": [0,
+	"groups": [
+		0,
 		{
 			"name": "bullet",
 			"origin": [0, 0, 0],
