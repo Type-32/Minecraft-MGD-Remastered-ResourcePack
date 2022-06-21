@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench and Model by Type-32",
+	"credit": "Made with Blockbench",
 	"parent": "item/rifle_holder",
 	"textures": {
 		"31": "item/grau_black_body",
@@ -2573,7 +2573,7 @@
 		"firstperson_righthand": {
 			"rotation": [90, 0, 90],
 			"translation": [-14.92, 14.4, 7.75],
-			"scale": [0.8, 0.8, 0.8]
+			"scale": [0.41, 0.795, 0.8]
 		},
 		"ground": {
 			"translation": [0, 4.75, 0],
