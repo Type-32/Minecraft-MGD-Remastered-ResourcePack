@@ -1,0 +1,6 @@
+	"others.solid_bullet_impact":   {"sounds": ["mgs:impact/solid_bullet_impact_01", "mgs:impact/solid_bullet_impact_02", "mgs:impact/solid_bullet_impact_03", "mgs:impact/solid_bullet_impact_04", "mgs:impact/solid_bullet_impact_05"]},
+	"others.soft_bullet_impact":    {"sounds": ["mgs:impact/soft_bullet_impact_01", "mgs:impact/soft_bullet_impact_02", "mgs:impact/soft_bullet_impact_03", "mgs:impact/soft_bullet_impact_04"]},
+	"others.cloth_bullet_impact":   {"sounds": ["mgs:impact/cloth_bullet_impact_01", "mgs:impact/cloth_bullet_impact_02", "mgs:impact/cloth_bullet_impact_03", "mgs:impact/cloth_bullet_impact_04"]},
+	"others.dirt_bullet_impact":    {"sounds": ["mgs:impact/dirt_bullet_impact_01", "mgs:impact/dirt_bullet_impact_02", "mgs:impact/dirt_bullet_impact_03"]},
+	"others.mud_bullet_impact":     {"sounds": ["mgs:impact/mud_bullet_impact_01", "mgs:impact/mud_bullet_impact_02", "mgs:impact/mud_bullet_impact_03", "mgs:impact/mud_bullet_impact_04"]},
+	"others.wood_bullet_impact":    {"sounds": ["mgs:impact/wood_bullet_impact_01", "mgs:impact/wood_bullet_impact_02", "mgs:impact/wood_bullet_impact_03", "mgs:impact/wood_bullet_impact_04"]},
