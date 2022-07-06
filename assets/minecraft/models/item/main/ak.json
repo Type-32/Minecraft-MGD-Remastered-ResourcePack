@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench and Model by Type-32",
+	"credit": "Made with Blockbench",
 	"parent": "item/akholder",
 	"textures": {
 		"28": "item/gear_black",
@@ -1037,8 +1037,8 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [89.5, 7, 90],
-			"translation": [-15, 3.25, 2.5],
-			"scale": [1, 1.2, 1]
+			"translation": [-14.75, 3, 2.5],
+			"scale": [1.1, 1.1, 1.1]
 		},
 		"ground": {
 			"translation": [0, 4.5, 0],
