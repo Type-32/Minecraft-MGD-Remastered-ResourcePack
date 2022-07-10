@@ -53,26 +53,38 @@
 
     "mp7.fire":        {"sounds": ["mgdr:mp7/fire"]},
     "mp7.reload":        {"sounds": ["mgdr:mp7/reload"]},
+
     "mp5.fire":        {"sounds": ["mgdr:mp5/fire"]},
     "mp5.reload":        {"sounds": ["mgdr:mp5/reload"]},
+
     "mp5t.fire":        {"sounds": ["mgdr:mp5t/fire","mgdr:mp5t/fire_2","mgdr:mp5t/fire_3"]},
     "mp5t.reload":        {"sounds": ["mgdr:mp5t/reload"]},
+
     "cz117.fire":        {"sounds": ["mgdr:cz117/fire"]},
     "cz117.reload":        {"sounds": ["mgdr:cz117/reload"]},
-    "mp7.echo31.fire":        {"sounds": ["mgdr:mp7/mp7_echo31","mgdr:mp7/mp7_echo31_2","mgdr:mp7/mp7_echo31_3"]},
+
     "grau556.fire":        {"sounds": ["mgdr:grau556/fire","mgdr:grau556/fire_2","mgdr:grau556/fire_3"]},
     "grau556.reload":        {"sounds": ["mgdr:grau556/reload"]},
+
     "cbt97.fire":        {"sounds": ["mgdr:cbt97/fire"]},
     "cbt97.reload":        {"sounds": ["mgdr:cbt97/reload"]},
+
     "m1911.fire":        {"sounds": ["mgdr:m1911/fire"]},
     "m1911.reload":        {"sounds": ["mgdr:m1911/reload"]},
+
     "m17.fire":        {"sounds": ["mgdr:m17/fire"]},
     "m17.reload":        {"sounds": ["mgdr:m17/reload"]},
+
     "m14.fire":        {"sounds": ["mgdr:m14/fire"]},
     "m14.reload":        {"sounds": ["mgdr:m14/reload"]},
+
+    "origin12.fire":        {"sounds": ["mgdr:origin12/fire"]},
+    "origin12.reload":        {"sounds": ["mgdr:origin12/reload"]},
+
     "cbs5.fire":        {"sounds": ["mgdr:cbs5/fire"]},
     "cbs5.cycle":        {"sounds": ["mgdr:cbs5/cycle"]},
     "cbs5.reload":        {"sounds": ["mgdr:cbs5/reload"]},
+
 	"others.lean_in":             {"sounds": ["mgdr:others/lean_in1", "mgdr:others/lean_in2", "mgdr:others/lean_in3", "mgdr:others/lean_in4"]},
 	"others.lean_out":            {"sounds": ["mgdr:others/lean_out"]},
 	"others.fireselect":          {"sounds": ["mgdr:others/fireselect"]},

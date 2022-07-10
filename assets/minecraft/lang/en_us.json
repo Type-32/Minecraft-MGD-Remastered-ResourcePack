@@ -52,14 +52,7 @@
     "mgdr.mag.empty.045mm_mag":"Empty 4.5mm Bullet Round Magazine",
     "mgdr.mag.empty.556mm_mag":"Empty 5.56mm Bullet Round Magazine",
     "mgdr.mag.empty.762mm_mag":"Empty 7.62mm Bullet Round Magazine",
-    "mgdr.mag.empty.12mm_mag":"Empty 12mm Shotgun Guage Magazine",
-
-    "mgdr.reload.message":"[Press F to Reload Gun]",
-    "mgdr.mag.need.009mm_mag":"Requires 9mm Bullet Round Magazine",
-    "mgdr.mag.need.045mm_mag":"Requires 4.5mm Bullet Round Magazine",
-    "mgdr.mag.need.556mm_mag":"Requires 5.56mm Bullet Round Magazine",
-    "mgdr.mag.need.762mm_mag":"Requires 7.62mm Bullet Round Magazine",
-    "mgdr.mag.need.12mm_mag":"Requires 12mm Shotgun Guage Magazine",
+    "mgdr.mag.empty.12mmG_mag":"Empty 12mm Shotgun Guage Magazine",
     
     "mgdr.bullet.bullet_box":"A box of bullets",
     "mgdr.item.steel_hull":"Steel Gun Hull",
@@ -88,19 +81,6 @@
 
     "mgdr.killstreak.uav":"UAV Recon Drone",
 
-    "mgdr.translate.ammo.full":"Full",
-    "mgdr.translate.ammo.almost_full":"Almost Full",
-    "mgdr.translate.ammo.half_full":"Half Full",
-    "mgdr.translate.ammo.almost_empty":"Almost Empty",
-    "mgdr.translate.ammo.empty":"Empty",
-    "mgdr.translate.ammo.556.mags_left":" Mags Left (5.56mm)",
-    "mgdr.translate.ammo.762.mags_left":" Mags Left (7.62mm)",
-    "mgdr.translate.ammo.009.mags_left":" Mags Left (9mm)",
-    "mgdr.translate.ammo.045.mags_left":" Mags Left (4.5mm)",
-    "mgdr.translate.ammo.no_762mag":"No Mags (7.62mm) Left",
-    "mgdr.translate.ammo.no_556mag":"No Mags (5.56mm) Left",
-    "mgdr.translate.ammo.no_009mag":"No Mags (9mm) Left",
-    "mgdr.translate.ammo.no_045mag":"No Mags (4.5mm) Left",
     "mgdr.translate.deploy.error":"Unable to Deploy!",
     "mgdr.translate.ammo.reloading":"Reloading...",
     "mgdr.translate.ammo.loaded":"Loaded!",
@@ -149,6 +129,7 @@
     "mgdr.config.give.556mag":"5.56mm Magazine - ",
     "mgdr.config.give.009mag":"9mm Magazine - ",
     "mgdr.config.give.045mag":"4.5mm Magazine - ",
+    "mgdr.config.give.12Gmag":"12mmG Gauge Magazine - ",
     "mgdr.config.give.bullet_box":"Box of bullets - ",
     "mgdr.config.click_text.edit_rule":"[Click here to edit rule]",
     "mgdr.config.click_text.get_item":"[Click here to get item]",
@@ -195,6 +176,7 @@
     "mgdr.adv.achieve.sig716":"Heavy Metal",
     "mgdr.adv.achieve.sig75t":"Tactical Heavy Metal",
     "mgdr.adv.achieve.cz117":"Achieving CZ-117",
+    "mgdr.adv.achieve.origin12":"That's THICC",
 
     "mgdr.adv.combat_master_knife_crafted.desc":"Craft a Combat Master Knife",
     "mgdr.adv.first_kill.desc":"Kill one mobs/player with guns",
@@ -220,5 +202,6 @@
     "mgdr.adv.achieve.asval.desc":"Achieving an AS-VAL in your Inventory",
     "mgdr.adv.achieve.sig716.desc":"Achieving a SIG-716 in your Inventory",
     "mgdr.adv.achieve.sig75t.desc":"Achieving a SIG-75-T in your Inventory",
-    "mgdr.adv.achieve.cz117.desc":"Achieving a CZ-117 in your Inventory"
+    "mgdr.adv.achieve.cz117.desc":"Achieving a CZ-117 in your Inventory",
+    "mgdr.adv.achieve.origin12.desc":"Achieving a Origin-12 in your Inventory"
 }
