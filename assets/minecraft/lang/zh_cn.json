@@ -157,6 +157,14 @@
     "mgdr.message.gun_name.ak.ctm":"§rAK-40",
     "mgdr.message.gun_name.mp7.ctm":"§rMP-7",
 
+
+    "mgdr_arcade.message.loadout.you_have_chosen":"§r你选择了",
+    "mgdr_arcade.message.loadout.as_your_first_weapon":"§r作为你的主武器",
+    "mgdr_arcade.message.loadout.as_your_second_weapon":"§r作为你的副武器",
+    "mgdr_arcade.message.loadout.weapon_doesnt_exist":"§r 不存在！你可以选择另一个武器用这个指令：",
+    "mgdr_arcade.message.loadout.weapon_text":"§r武器 ",
+
+
     "mgdr.settings.settings_title":"现代枪械数据包重制版 - 个人设置",
     "mgdr.settings.performace_settings":"性能设置:",
     "mgdr.settings.other_settings":"其他设置:",

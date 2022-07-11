@@ -120,6 +120,14 @@
     "mgdr.message.gun_name.ak.ctm":"§rAK-40",
     "mgdr.message.gun_name.mp7.ctm":"§rMP-7",
 
+
+    "mgdr_arcade.message.loadout.you_have_chosen":"§rYou have chosen ",
+    "mgdr_arcade.message.loadout.as_your_first_weapon":"§ras your first weapon.",
+    "mgdr_arcade.message.loadout.as_your_second_weapon":"§ras your second weapon.",
+    "mgdr_arcade.message.loadout.weapon_doesnt_exist":"§r Does Not Exist! You can choose another weapon using ",
+    "mgdr_arcade.message.loadout.weapon_text":"§rWeapon ",
+
+
     "mgdr.config.config_title":"Modern Guns Datapack - Configuration",
     "mgdr.config.global_settings":"Global Settings: (Enter 1 for Enable, 0 for Disable)",
     "mgdr.config.infinite_ammo":"Infinite Ammo - ",
