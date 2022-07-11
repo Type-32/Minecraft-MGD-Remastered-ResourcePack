@@ -124,8 +124,18 @@
     "mgdr_arcade.message.loadout.you_have_chosen":"§rYou have chosen ",
     "mgdr_arcade.message.loadout.as_your_first_weapon":"§ras your first weapon.",
     "mgdr_arcade.message.loadout.as_your_second_weapon":"§ras your second weapon.",
+    "mgdr_arcade.message.loadout.as_your_first_equipment":"§ras your first equipment.",
+    "mgdr_arcade.message.loadout.as_your_second_equipment":"§ras your second equipment.",
     "mgdr_arcade.message.loadout.weapon_doesnt_exist":"§r Does Not Exist! You can choose another weapon using ",
+    "mgdr_arcade.message.loadout.equipment_doesnt_exist":"§r Does Not Exist! You can choose another equipment using ",
+    "mgdr_arcade.message.loadout.weapon_number":"§r<Weapon Number>",
+    "mgdr_arcade.message.loadout.equipment_number":"§r<Equipment Number>",
     "mgdr_arcade.message.loadout.weapon_text":"§rWeapon ",
+    "mgdr_arcade.message.loadout.equipment_text":"§rEquipment ",
+    "mgdr_arcade.message.loadout.grenade":"§rGrenade ",
+    "mgdr_arcade.message.loadout.flashbang":"§rFlashbang ",
+    "mgdr_arcade.message.loadout.landmine":"§rLandmine ",
+    "mgdr_arcade.message.loadout.combat_master_vest":"§rCombat Master™ Vest ",
 
 
     "mgdr.config.config_title":"Modern Guns Datapack - Configuration",

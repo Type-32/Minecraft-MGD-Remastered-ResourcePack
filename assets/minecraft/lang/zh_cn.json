@@ -161,8 +161,18 @@
     "mgdr_arcade.message.loadout.you_have_chosen":"§r你选择了",
     "mgdr_arcade.message.loadout.as_your_first_weapon":"§r作为你的主武器",
     "mgdr_arcade.message.loadout.as_your_second_weapon":"§r作为你的副武器",
+    "mgdr_arcade.message.loadout.as_your_first_equipment":"§r作为你的第一个装备",
+    "mgdr_arcade.message.loadout.as_your_second_equipment":"§r作为你的第二个装备",
     "mgdr_arcade.message.loadout.weapon_doesnt_exist":"§r 不存在！你可以选择另一个武器用这个指令：",
+    "mgdr_arcade.message.loadout.equipment_doesnt_exist":"§r 不存在！你可以选择另一个装备用这个指令：",
+    "mgdr_arcade.message.loadout.weapon_number":"§r<武器ID>",
+    "mgdr_arcade.message.loadout.equipment_number":"§r<装备ID>",
     "mgdr_arcade.message.loadout.weapon_text":"§r武器 ",
+    "mgdr_arcade.message.loadout.equipment_text":"§r装备 ",
+    "mgdr_arcade.message.loadout.grenade":"§r手榴弹 ",
+    "mgdr_arcade.message.loadout.flashbang":"§r闪光弹 ",
+    "mgdr_arcade.message.loadout.landmine":"§r地雷 ",
+    "mgdr_arcade.message.loadout.combat_master_vest":"§r战术大师™ 防弹背心 ",
 
 
     "mgdr.settings.settings_title":"现代枪械数据包重制版 - 个人设置",
