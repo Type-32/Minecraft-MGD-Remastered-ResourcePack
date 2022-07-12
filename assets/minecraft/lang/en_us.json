@@ -136,6 +136,11 @@
     "mgdr_arcade.message.loadout.flashbang":"§rFlashbang ",
     "mgdr_arcade.message.loadout.landmine":"§rLandmine ",
     "mgdr_arcade.message.loadout.combat_master_vest":"§rCombat Master™ Vest ",
+    "mgdr_arcade.ui.loadout.click_here_to_equip_for_first_weapon":"§r[Equip As First Weapon]",
+    "mgdr_arcade.ui.loadout.click_here_to_equip_for_second_weapon":"§r[Equip As Second Weapon]",
+    "mgdr_arcade.ui.loadout.click_here_to_equip_for_first_equipment":"§r[Equip For First Equipment]",
+    "mgdr_arcade.ui.loadout.click_here_to_equip_for_second_equipment":"§r[Equip As Second Equipment]",
+    "mgdr_arcade.ui.loadout.click_here_to_equip":"§rClick to equip",
 
 
     "mgdr.config.config_title":"Modern Guns Datapack - Configuration",

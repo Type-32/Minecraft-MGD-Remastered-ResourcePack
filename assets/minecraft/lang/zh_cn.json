@@ -173,6 +173,11 @@
     "mgdr_arcade.message.loadout.flashbang":"§r闪光弹 ",
     "mgdr_arcade.message.loadout.landmine":"§r地雷 ",
     "mgdr_arcade.message.loadout.combat_master_vest":"§r战术大师™ 防弹背心 ",
+    "mgdr_arcade.ui.loadout.click_here_to_equip_for_first_weapon":"§r[点击这里以装备为主武器]",
+    "mgdr_arcade.ui.loadout.click_here_to_equip_for_second_weapon":"§r[点击这里以装备为副武器]",
+    "mgdr_arcade.ui.loadout.click_here_to_equip_for_first_equipment":"§r[点击这里以装备为第一个装备]",
+    "mgdr_arcade.ui.loadout.click_here_to_equip_for_second_equipment":"§r[点击这里以装备为第二个装备]",
+    "mgdr_arcade.ui.loadout.click_here_to_equip":"§r点击以装备",
 
 
     "mgdr.settings.settings_title":"现代枪械数据包重制版 - 个人设置",
