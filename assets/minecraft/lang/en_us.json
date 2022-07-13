@@ -82,7 +82,8 @@
     "mgdr.killstreak.uav":"UAV Recon Drone",
 
     "mgdr.translate.deploy.error":"Unable to Deploy!",
-    "mgdr.translate.ammo.reloading":"Reloading...",
+    "mgdr.translate.ammo.reloading":"[Reloading...]",
+    "mgdr.translate.ammo.requires_reload":"[Requires Reload]",
     "mgdr.translate.ammo.loaded":"Loaded!",
     "mgdr.translate.ammo.no_reload":"Unable to Reload!",
     "mgdr.translate.ammo.rounds":" Rounds",
