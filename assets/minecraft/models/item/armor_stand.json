@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/armor_stand"
+    },
+    "overrides":[
+      {"predicate":{"custom_model_data":212001},"model":"item/arcade/alliegiance_spawnpoint"},
+      {"predicate":{"custom_model_data":212002},"model":"item/arcade/coalition_spawnpoint"},
+      {"predicate":{"custom_model_data":212003},"model":"item/arcade/ffa_spawnpoint"},
+      {"predicate":{"custom_model_data":212004},"model":"item/arcade/death_spawnpoint"},
+      {"predicate":{"custom_model_data":212005},"model":"item/arcade/lobby_point"}
+    ]
+}

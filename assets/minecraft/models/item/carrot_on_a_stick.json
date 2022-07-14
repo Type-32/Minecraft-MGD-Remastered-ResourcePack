@@ -12,6 +12,7 @@
     {"predicate":{"custom_model_data":202006},"model":"item/landmine"},
     {"predicate":{"custom_model_data":202007},"model":"item/cable_lifter"},
     {"predicate":{"custom_model_data":202008},"model":"item/plane"},
+    {"predicate":{"custom_model_data":202009},"model":"item/combat_master_knife"},
 
     {"predicate":{"custom_model_data":202101},"model":"item/main/mk7"},
     {"predicate":{"custom_model_data":202102},"model":"item/main/cbr27"},
