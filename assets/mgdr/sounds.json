@@ -87,6 +87,8 @@
 
 	"others.lean_in":             {"sounds": ["mgdr:others/lean_in1", "mgdr:others/lean_in2", "mgdr:others/lean_in3", "mgdr:others/lean_in4"]},
 	"others.lean_out":            {"sounds": ["mgdr:others/lean_out"]},
+	"others.fly_knife":            {"sounds": ["mgdr:others/fly_knife"]},
+	"others.use_stim":            {"sounds": ["mgdr:others/use_stim"]},
 	"others.fireselect":          {"sounds": ["mgdr:others/fireselect"]},
     "others.empty":               {"sounds": ["mgdr:others/empty_1","mgdr:others/empty_2","mgdr:others/empty_3"]},
     "others.rocket_crack":        {"sounds": ["mgdr:others/rocket_crack"]},

@@ -45,6 +45,7 @@
     "mgdr.item.throwables.flashbang":"闪光弹",
     "mgdr.item.deployables.landmine":"反器材地雷",
     "mgdr.item.combat_master_knife":"§7§l战术大师™小刀",
+    "mgdr.item.stim_shot":"§7§l肾上腺素针",
 
     "mgdr.item.equipment.night_vision_goggles":"夜视仪",
 
@@ -179,6 +180,7 @@
     "mgdr_arcade.message.loadout.flashbang":"§r闪光弹 ",
     "mgdr_arcade.message.loadout.landmine":"§r地雷 ",
     "mgdr_arcade.message.loadout.combat_master_vest":"§r战术大师™ 防弹背心 ",
+    "mgdr_arcade.message.loadout.stim_shot":"§r治疗针 ",
     "mgdr_arcade.message.loadout.m1911":"§rM-1911 手枪",
     "mgdr_arcade.message.loadout.m17":"§rM-17 手枪",
     "mgdr_arcade.message.loadout.cbr27":"§rCBR-27 自动步枪",

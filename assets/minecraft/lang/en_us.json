@@ -41,6 +41,7 @@
     "mgdr.item.deployables.landmine":"Landmine",
     "mgdr.item.deployables.cable_lifter":"Cable Lifter",
     "mgdr.item.combat_master_knife":"§7§lCombat Master™ Knife",
+    "mgdr.item.stim_shot":"§7§lStim Shot",
 
     "mgdr.item.equipment.night_vision_goggles":"Night Vision Goggles",
 
@@ -142,6 +143,7 @@
     "mgdr_arcade.message.loadout.flashbang":"§rFlashbang ",
     "mgdr_arcade.message.loadout.landmine":"§rLandmine ",
     "mgdr_arcade.message.loadout.combat_master_vest":"§rCombat Master™ Vest ",
+    "mgdr_arcade.message.loadout.stim_shot":"§rStim Shot ",
     "mgdr_arcade.message.loadout.m1911":"§rM-1911 Handgun ",
     "mgdr_arcade.message.loadout.m17":"§rM-17 Handgun ",
     "mgdr_arcade.message.loadout.cbr27":"§rCBR-27 Assault Rifle ",
