@@ -47,6 +47,14 @@
     "mgdr.item.combat_master_knife":"§7§l战术大师™小刀",
     "mgdr.item.stim_shot":"§7§l肾上腺素针",
 
+    "mgdr.gun_item.lore.uses":"使用",
+    "mgdr.gun_item.lore.magazine":"弹匣",
+    "mgdr.gun_item.lore.762mm":"7.62毫米口径子弹",
+    "mgdr.gun_item.lore.009mm":".9毫米口径子弹",
+    "mgdr.gun_item.lore.045mm":".45毫米口径子弹",
+    "mgdr.gun_item.lore.556mm":"5.56毫米口径子弹",
+    "mgdr.gun_item.lore.12mmG":"12mm毫米口径霰弹",
+
     "mgdr.item.equipment.night_vision_goggles":"夜视仪",
 
     "mgdr.mag.full.009mm_mag":"9mm弹匣（满）",
@@ -205,6 +213,20 @@
     "mgdr_arcade.ui.loadout.click_here_to_equip_for_second_equipment":"§r[点击这里以装备为第二个装备]",
     "mgdr_arcade.ui.loadout.click_here_to_equip":"§r点击以装备",
 
+    "mgdr_arcade.gamemode.message.vote.voting_title":"§r给游戏模式投票",
+    "mgdr_arcade.gamemode.message.vote.click_to_vote":"§r[点击这里投票]",
+    "mgdr_arcade.gamemode.message.tdm":"§r团队死斗",
+    "mgdr_arcade.gamemode.message.tdm.desc":"§r将对立玩家击杀为你的团队获得积分！",
+    "mgdr_arcade.gamemode.message.tdm.abbv":"§r团队死斗: ",
+    "mgdr_arcade.gamemode.message.ffa":"§r大乱斗",
+    "mgdr_arcade.gamemode.message.ffa.desc":"§r击杀每个玩家获得积分！",
+    "mgdr_arcade.gamemode.message.ffa.abbv":"§r大乱斗: ",
+    "mgdr_arcade.gamemode.message.cto":"§r据点战",
+    "mgdr_arcade.gamemode.message.cto.desc":"§r占据据点来为你的团队获得积分！",
+    "mgdr_arcade.gamemode.message.cto.abbv":"§r据点战: ",
+    "mgdr_arcade.gamemode.message.match.respawned":"§r已经重生!",
+    "mgdr_arcade.gamemode.message.match.you_died":"§r你已死亡!",
+    "mgdr_arcade.gamemode.message.match.you_will_respawn":"§r你会在五秒后重生.",
 
     "mgdr.settings.settings_title":"现代枪械数据包重制版 - 个人设置",
     "mgdr.settings.performace_settings":"性能设置:",
