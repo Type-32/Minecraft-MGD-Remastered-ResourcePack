@@ -192,7 +192,7 @@
     "mgdr_arcade.gamemode.message.match.you_will_respawn":"§rYou will respawn in 5 seconds.",
     "mgdr_arcade.gamemode.message.end_match.team":"§rTeam ",
     "mgdr_arcade.gamemode.message.end_match.coalition":"§rCoalition ",
-    "mgdr_arcade.gamemode.message.end_match.alliegiance":"§rAlliegiance ",
+    "mgdr_arcade.gamemode.message.end_match.allegiance":"§rAllegiance ",
     "mgdr_arcade.gamemode.message.end_match.has_won_the_match":"§rhas won the match!",
     "mgdr_arcade.gamemode.message.end_match.has_forfeited_the_match":"§rhas forfeited the match!",
     "mgdr_arcade.gamemode.message.end_match.match_end_and_scores":"§rMatch Ended! Match Scores: ",
@@ -200,6 +200,12 @@
     "mgdr_arcade.gamemode.message.end_match.match_end_time":"§rTime Ended! Player(s) ",
     "mgdr_arcade.gamemode.message.end_match.won_match_final_scores":"§r has won the match! Final Points: ",
     "mgdr_arcade.gamemode.message.end_match.draw":"§rIt's a Draw!",
+    "mgdr_arcade.gamemode.message.match.respawn_in_5":"§rYou will respawn in 5 seconds...",
+    "mgdr_arcade.gamemode.message.match.respawn_in_4":"§rYou will respawn in 4 seconds...",
+    "mgdr_arcade.gamemode.message.match.respawn_in_3":"§rYou will respawn in 3 seconds...",
+    "mgdr_arcade.gamemode.message.match.respawn_in_2":"§rYou will respawn in 2 seconds...",
+    "mgdr_arcade.gamemode.message.match.respawn_in_1":"§rYou will respawn in 1 second...",
+
 
     "mgdr.config.config_title":"Modern Guns Datapack - Configuration",
     "mgdr.config.global_settings":"Global Settings: (Enter 1 for Enable, 0 for Disable)",

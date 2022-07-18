@@ -1,6 +1,6 @@
 {
     "parent":"item/generated",
     "textures": {
-        "layer0": "item/arcade/alliegiance_spawnpoint"
+        "layer0": "item/arcade/allegiance_spawnpoint"
     }
 }
