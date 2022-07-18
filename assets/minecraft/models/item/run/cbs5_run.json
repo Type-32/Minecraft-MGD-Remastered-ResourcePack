@@ -1531,8 +1531,8 @@
 			"translation": [-4.5, -0.5, -2]
 		},
 		"firstperson_righthand": {
-			"rotation": [85, 14, 39],
-			"translation": [-15, 1, 8.5]
+			"rotation": [90, 14, 39],
+			"translation": [-14.5, 0.75, 9]
 		},
 		"ground": {
 			"translation": [0, 5.25, 0]
