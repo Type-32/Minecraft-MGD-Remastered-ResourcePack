@@ -212,6 +212,9 @@
     "mgdr_arcade.gamemode.message.vote.tdm":"§rTeam Death Match",
     "mgdr_arcade.gamemode.message.vote.ffa":"§rFree For All",
     "mgdr_arcade.gamemode.message.vote.gamemode":"§r Gamemode.",
+    "mgdr_arcade.gamemode.message.preprocessing.match_already_started":"§rA Match has already begun!",
+    "mgdr_arcade.gamemode.message.preprocessing.vote_already_started":"§rA Vote has already begun!",
+    "mgdr_arcade.gamemode.message.preprocessing.not_enough_players":"§rThere isn't enough players to start a vote!",
 
     "mgdr_arcade.gamemode.message.cto.objective":"§rObjective ",
     "mgdr_arcade.gamemode.message.cto.being_captured_allegiance":"§r is being captured by Allegiance!",
@@ -219,7 +222,6 @@
     "mgdr_arcade.gamemode.message.cto.allegiance_has_captured":"§rAllegiance has now captured Objective ",
     "mgdr_arcade.gamemode.message.cto.coalition_has_captured":"§rCoalition has now captured Objective ",
     "mgdr_arcade.gamemode.message.cto.is_contested":"§r is contested!",
-
 
     "mgdr.config.config_title":"Modern Guns Datapack - Configuration",
     "mgdr.config.global_settings":"Global Settings: (Enter 1 for Enable, 0 for Disable)",

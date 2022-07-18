@@ -249,6 +249,9 @@
     "mgdr_arcade.gamemode.message.vote.tdm":"§r团队死斗",
     "mgdr_arcade.gamemode.message.vote.ffa":"§r大乱斗",
     "mgdr_arcade.gamemode.message.vote.gamemode":"§r游戏模式。",
+    "mgdr_arcade.gamemode.message.preprocessing.match_already_started":"§r已经有正在进行的比赛了！",
+    "mgdr_arcade.gamemode.message.preprocessing.vote_already_started":"§r已经有正在进行的投票选举了！",
+    "mgdr_arcade.gamemode.message.preprocessing.not_enough_players":"§r没有足够的玩家能开始投票选举！",
 
     "mgdr_arcade.gamemode.message.cto.objective":"§r据点",
     "mgdr_arcade.gamemode.message.cto.being_captured_allegiance":"§r正在被联队占据！",
