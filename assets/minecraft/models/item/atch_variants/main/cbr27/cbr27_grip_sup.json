@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench and Model by Type-32",
+	"credit": "Made with Blockbench",
 	"parent": "item/rifle_holder",
 	"textures": {
 		"7": "item/silencer",
@@ -2685,7 +2685,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [88.5, 7, 90],
-			"translation": [-12.14, 3.65, 4.75],
+			"translation": [-12.14, 3.65, 5],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"ground": {
