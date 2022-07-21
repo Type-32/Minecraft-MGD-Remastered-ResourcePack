@@ -578,7 +578,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -90, 0],
-			"translation": [-8.75, 13.1, 1.5],
+			"translation": [-8.75, 13.1, 0],
 			"scale": [0.62305, 1, 1]
 		},
 		"ground": {
@@ -593,17 +593,42 @@
 			"translation": [0, -1.25, -1.25]
 		}
 	},
-	"groups": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+	"groups": [
+		0,
+		1,
+		2,
+		3,
+		4,
+		5,
+		6,
+		7,
+		8,
+		9,
+		10,
+		11,
+		12,
+		13,
+		14,
+		15,
+		16,
+		17,
+		18,
+		19,
+		20,
 		{
 			"name": "upperhull",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [21, 22,
+			"children": [
+				21,
+				22,
 				{
 					"name": "upperhull",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"children": [23, 24,
+					"children": [
+						23,
+						24,
 						{
 							"name": "upperhull",
 							"origin": [0, 0, 0],

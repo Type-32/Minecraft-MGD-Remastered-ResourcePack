@@ -1,10 +1,12 @@
 {
+    "ak.fire":        {"sounds": ["mgdr:ak/main/fire_1","mgdr:ak/main/fire_2","mgdr:ak/main/fire_3","mgdr:ak/main/fire_4","mgdr:ak/main/fire_5","mgdr:ak/main/fire_6"]},
+    "ak.fire.mech":        {"sounds": ["mgdr:ak/main/fire_mech_1","mgdr:ak/main/fire_mech_2","mgdr:ak/main/fire_mech_3","mgdr:ak/main/fire_mech_4","mgdr:ak/main/fire_mech_5","mgdr:ak/main/fire_mech_6"]},
+    "ak.fire.bass":        {"sounds": ["mgdr:ak/main/fire_lowbass"]},
     "ak.reload":        {"sounds": ["mgdr:ak/reload"]},
-    "ak.fire":        {"sounds": ["mgdr:ak/fire","mgdr:ak/fire_2","mgdr:ak/fire_3"]},
-    "ak.fire.mech":        {"sounds": ["mgdr:ak/fire","mgdr:ak/fire_2","mgdr:ak/fire_3"]},
 
-    "sig716.fire":        {"sounds": ["mgdr:sig716/fire","mgdr:sig716/fire_2","mgdr:sig716/fire_3"]},
-    "sig716.fire.ads":        {"sounds": ["mgdr:sig716/fire","mgdr:sig716/fire_2","mgdr:sig716/fire_3"]},
+    "sig716.fire":        {"sounds": ["mgdr:sig716/main/fire_1","mgdr:sig716/main/fire_2","mgdr:sig716/main/fire_3","mgdr:sig716/main/fire_4","mgdr:sig716/main/fire_5","mgdr:sig716/main/fire_6"]},
+    "sig716.fire.mech":        {"sounds": ["mgdr:sig716/main/fire_mech_1","mgdr:sig716/main/fire_mech_2","mgdr:sig716/main/fire_mech_3","mgdr:sig716/main/fire_mech_4","mgdr:sig716/main/fire_mech_5","mgdr:sig716/main/fire_mech_6"]},
+    "sig716.fire.bass":        {"sounds": ["mgdr:sig716/main/fire_lowbass"]},
     "sig716.reload":        {"sounds": ["mgdr:sig716/reload"]},
 
     "asval.fire":        {"sounds": ["mgdr:asval/main/fire_1","mgdr:asval/main/fire_2","mgdr:asval/main/fire_3","mgdr:asval/main/fire_4","mgdr:asval/main/fire_5","mgdr:asval/main/fire_6","mgdr:asval/main/fire_7","mgdr:asval/main/fire_8"]},
@@ -12,8 +14,9 @@
     "asval.fire.bass":        {"sounds": ["mgdr:asval/main/fire_lowbass"]},
     "asval.reload":        {"sounds": ["mgdr:asval/reload"]},
 
-    "augpara.fire":        {"sounds": ["mgdr:augpara/fire","mgdr:augpara/fire_2","mgdr:augpara/fire_3"]},
-    "augpara.fire.ads":        {"sounds": ["mgdr:augpara/fire","mgdr:augpara/fire_2","mgdr:augpara/fire_3"]},
+    "augpara.fire":        {"sounds": ["mgdr:augpara/main/fire_1","mgdr:augpara/main/fire_2","mgdr:augpara/main/fire_3","mgdr:augpara/main/fire_4","mgdr:augpara/main/fire_5","mgdr:augpara/main/fire_6"]},
+    "augpara.fire.mech":        {"sounds": ["mgdr:augpara/main/fire_mech_1","mgdr:augpara/main/fire_mech_2","mgdr:augpara/main/fire_mech_3","mgdr:augpara/main/fire_mech_4","mgdr:augpara/main/fire_mech_5","mgdr:augpara/main/fire_mech_6"]},
+    "augpara.fire.bass":        {"sounds": ["mgdr:augpara/main/fire_lowbass"]},
     "augpara.reload":        {"sounds": ["mgdr:augpara/reload"]},
 
     "cbr27.fire":        {"sounds": ["mgdr:cbr27/main/fire_1","mgdr:cbr27/main/fire_2","mgdr:cbr27/main/fire_3","mgdr:cbr27/main/fire_4","mgdr:cbr27/main/fire_5","mgdr:cbr27/main/fire_6"]},
@@ -23,7 +26,9 @@
     "cbr27.sup_fire.mech":        {"sounds": ["mgdr:cbr27/sup/sup_fire_mech_1","mgdr:cbr27/sup/sup_fire_mech_2","mgdr:cbr27/sup/sup_fire_mech_3"]},
     "cbr27.reload":        {"sounds": ["mgdr:cbr27/reload"]},
 
-    "cbr27a1.fire":        {"sounds": ["mgdr:cbr27a1/fire","mgdr:cbr27a1/fire_2","mgdr:cbr27a1/fire_3"]},
+    "cbr27a1.fire":        {"sounds": ["mgdr:cbr27a1/main/fire_1","mgdr:cbr27a1/main/fire_2","mgdr:cbr27a1/main/fire_3","mgdr:cbr27a1/main/fire_4","mgdr:cbr27a1/main/fire_5","mgdr:cbr27a1/main/fire_6"]},
+    "cbr27a1.fire.mech":        {"sounds": ["mgdr:cbr27a1/main/fire_mech_1","mgdr:cbr27a1/main/fire_mech_2","mgdr:cbr27a1/main/fire_mech_3","mgdr:cbr27a1/main/fire_mech_4","mgdr:cbr27a1/main/fire_mech_5","mgdr:cbr27a1/main/fire_mech_6"]},
+    "cbr27a1.fire.bass":        {"sounds": ["mgdr:cbr27a1/main/fire_lowbass"]},
     "cbr27a1.reload":        {"sounds": ["mgdr:cbr27a1/reload"]},
 
     "vec9.fire":        {"sounds": ["mgdr:vec9/fire","mgdr:vec9/fire_2","mgdr:vec9/fire_3"]},
@@ -55,13 +60,19 @@
     "cbt97.fire.bass":        {"sounds": ["mgdr:cbt97/main/fire_lowbass"]},
     "cbt97.reload":        {"sounds": ["mgdr:cbt97/reload"]},
 
-    "m1911.fire":        {"sounds": ["mgdr:m1911/fire"]},
+    "m1911.fire":        {"sounds": ["mgdr:m1911/main/fire_1","mgdr:m1911/main/fire_2","mgdr:m1911/main/fire_3","mgdr:m1911/main/fire_4","mgdr:m1911/main/fire_5","mgdr:m1911/main/fire_6"]},
+    "m1911.fire.mech":        {"sounds": ["mgdr:m1911/main/fire_mech_1","mgdr:m1911/main/fire_mech_2","mgdr:m1911/main/fire_mech_3","mgdr:m1911/main/fire_mech_4","mgdr:m1911/main/fire_mech_5","mgdr:m1911/main/fire_mech_6"]},
+    "m1911.fire.bass":        {"sounds": ["mgdr:m1911/main/fire_lowbass"]},
     "m1911.reload":        {"sounds": ["mgdr:m1911/reload"]},
 
-    "m17.fire":        {"sounds": ["mgdr:m17/fire"]},
+    "m17.fire":        {"sounds": ["mgdr:m17/main/fire_1","mgdr:m17/main/fire_2","mgdr:m17/main/fire_3","mgdr:m17/main/fire_4","mgdr:m17/main/fire_5","mgdr:m17/main/fire_6"]},
+    "m17.fire.mech":        {"sounds": ["mgdr:m17/main/fire_mech_1","mgdr:m17/main/fire_mech_2","mgdr:m17/main/fire_mech_3","mgdr:m17/main/fire_mech_4","mgdr:m17/main/fire_mech_5","mgdr:m17/main/fire_mech_6"]},
+    "m17.fire.bass":        {"sounds": ["mgdr:m17/main/fire_lowbass"]},
     "m17.reload":        {"sounds": ["mgdr:m17/reload"]},
 
-    "m14.fire":        {"sounds": ["mgdr:m14/fire"]},
+    "m14.fire":        {"sounds": ["mgdr:m14/main/fire_1","mgdr:m14/main/fire_2","mgdr:m14/main/fire_3","mgdr:m14/main/fire_4","mgdr:m14/main/fire_5","mgdr:m14/main/fire_6"]},
+    "m14.fire.mech":        {"sounds": ["mgdr:m14/main/fire_mech_1","mgdr:m14/main/fire_mech_2","mgdr:m14/main/fire_mech_3","mgdr:m14/main/fire_mech_4","mgdr:m14/main/fire_mech_5","mgdr:m14/main/fire_mech_6"]},
+    "m14.fire.bass":        {"sounds": ["mgdr:m14/main/fire_lowbass_1","mgdr:m14/main/fire_lowbass_2"]},
     "m14.reload":        {"sounds": ["mgdr:m14/reload"]},
 
     "origin12.fire":        {"sounds": ["mgdr:origin12/fire"]},

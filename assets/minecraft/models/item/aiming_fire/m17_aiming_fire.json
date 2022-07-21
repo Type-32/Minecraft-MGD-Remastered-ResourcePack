@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench and Model by Type-32",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"6": "item/bullet_body_wb",
 		"34": "item/gun_body_black",
@@ -676,7 +676,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [93, 0, 90],
-			"translation": [-15.7, 11.65, 0.25],
+			"translation": [-15.7, 11.65, -1],
 			"scale": [0.9, 0.9, 0.9]
 		},
 		"ground": {
@@ -702,12 +702,22 @@
 					"name": "upper_hull",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"children": [0, 1, 2, 3, 4, 5, 6, 7,
+					"children": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
 						{
 							"name": "exposed_barrel",
 							"origin": [0, 0, 0],
 							"color": 0,
-							"children": [8, 9,
+							"children": [
+								8,
+								9,
 								{
 									"name": "sights",
 									"origin": [0, 0, 0],
@@ -717,13 +727,19 @@
 							]
 						}
 					]
-				}, 14]
+				},
+				14
+			]
 		},
 		{
 			"name": "body",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [15, 16, 17, 18,
+			"children": [
+				15,
+				16,
+				17,
+				18,
 				{
 					"name": "handle",
 					"origin": [13.80936, 0, 3.58824],
