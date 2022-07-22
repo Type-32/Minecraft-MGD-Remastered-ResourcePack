@@ -1,6 +1,6 @@
 {
     "parent":"item/generated",
     "textures": {
-        "layer0": "item/blueprint"
+        "layer0": "mgdr:item/gun_barrel"
     }
 }

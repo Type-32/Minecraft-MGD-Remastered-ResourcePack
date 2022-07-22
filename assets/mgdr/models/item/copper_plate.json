@@ -1,6 +1,6 @@
 {
     "parent":"item/generated",
     "textures": {
-        "layer0": "item/cbr27_stock"
+        "layer0": "mgdr:item/copper_plate"
     }
 }

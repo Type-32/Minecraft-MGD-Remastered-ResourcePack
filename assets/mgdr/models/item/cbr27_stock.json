@@ -1,6 +1,6 @@
 {
     "parent":"item/generated",
     "textures": {
-        "layer0": "item/optic_chip"
+        "layer0": "mgdr:item/cbr27_stock"
     }
 }

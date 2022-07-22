@@ -1,6 +1,6 @@
 {
     "parent":"item/generated",
     "textures": {
-        "layer0": "item/gun_barrel"
+        "layer0": "mgdr:item/iron_plate"
     }
 }

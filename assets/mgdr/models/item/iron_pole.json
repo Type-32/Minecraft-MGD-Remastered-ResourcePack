@@ -1,6 +1,6 @@
 {
     "parent":"item/generated",
     "textures": {
-        "layer0": "item/optic_fiber_lens"
+        "layer0": "mgdr:item/iron_pole"
     }
 }

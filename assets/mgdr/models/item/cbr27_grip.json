@@ -1,6 +1,6 @@
 {
     "parent":"item/generated",
     "textures": {
-        "layer0": "item/copper_cord"
+        "layer0": "mgdr:item/cbr27_grip"
     }
 }

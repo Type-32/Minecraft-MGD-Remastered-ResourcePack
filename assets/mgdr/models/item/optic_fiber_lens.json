@@ -1,6 +1,6 @@
 {
     "parent":"item/generated",
     "textures": {
-        "layer0": "item/hatch_piece"
+        "layer0": "mgdr:item/optic_fiber_lens"
     }
 }

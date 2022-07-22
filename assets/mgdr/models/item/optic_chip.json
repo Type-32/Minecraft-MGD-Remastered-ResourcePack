@@ -1,6 +1,6 @@
 {
     "parent":"item/generated",
     "textures": {
-        "layer0": "item/optic_led"
+        "layer0": "mgdr:item/optic_chip"
     }
 }

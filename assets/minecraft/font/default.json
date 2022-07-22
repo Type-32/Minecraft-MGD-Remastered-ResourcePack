@@ -2,6 +2,36 @@
     "providers": [
         {
             "type": "bitmap",
+            "file": "mgdr:misc/spaces.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": [
+               "\u2002\u2003\u2004\u2005\u2006\u2007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mgdr:misc/blueprint_grid.png",
+            "ascent": 8,
+            "height": 61,
+            "chars": [
+               "\uee00"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mgdr:misc/blueprint_parts.png",
+            "ascent": 13,
+            "height": 16,
+            "chars": [
+               "\uee10\uee11\uee12\uee13\uee14\uee15\uee16\uee17\uee18\uee19\uee1a\uee1b\uee1c\uee1d\uee1e\uee1f",
+               "\uee20\uee21\uee22\uee23\uee24\uee25\uee26\uee27\uee28\uee29\uee2a\uee2b\uee2c\uee2d\uee2e\uee2f",
+               "\uee30\uee31\uee32\uee33\uee34\uee35\uee36\uee37\uee38\uee39\uee3a\uee3b\uee3c\uee3d\uee3e\uee3f",
+               "\uee40\uee41\uee42\uee43\uee44\uee45\uee46\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/hit.png",
             "ascent": 3,
             "height": 9,

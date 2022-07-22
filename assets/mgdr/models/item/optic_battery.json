@@ -1,6 +1,6 @@
 {
     "parent":"item/generated",
     "textures": {
-        "layer0": "item/cbr27_hull"
+        "layer0": "mgdr:item/optic_battery"
     }
 }
