@@ -327,5 +327,53 @@
     "mgdr.adv.achieve.asval.desc":"获取一把AS-VAL",
     "mgdr.adv.achieve.sig716.desc":"获取一把SIG-716",
     "mgdr.adv.achieve.sig75t.desc":"获取一把SIG-75-T",
-    "mgdr.adv.achieve.cz117.desc":"获取一把CZ-117"
+    "mgdr.adv.achieve.cz117.desc":"获取一把CZ-117",
+
+    "mgdr.adv.achieve.stim_shot":"Imagine Using A Syringe to Heal Your Wounds Instead of Eating",
+    "mgdr.adv.achieve.grenade":"Kaboom-booms",
+    "mgdr.adv.achieve.flashbang":"Get Tactical",
+
+    "mgdr.adv.use.stim_shot":"Oh~ Yeah~ That's~ Good~",
+    "mgdr.adv.use.grenade":"小心手雷！",
+    "mgdr.adv.use.flashbang":"A1高闪来一个！",
+    "mgdr.adv.use.combat_master_knife":"插到你的*眼里",
+
+    "mgdr_arcade.adv.arcade":"现代枪械数据包街机扩展",
+    "mgdr_arcade.adv.achievements":"街机扩展成就",
+    "mgdr_arcade.adv.matches":"街机扩展比赛",
+    "mgdr_arcade.adv.attend_first_match":"第一次",
+
+
+
+    "mgdr_arcade.adv.trophies":"奖杯",
+    "mgdr_arcade.adv.trophies.rookie":"菜鸟奖杯",
+    "mgdr_arcade.adv.trophies.recruit":"新手奖杯",
+    "mgdr_arcade.adv.trophies.beginner":"新人奖杯",
+    "mgdr_arcade.adv.trophies.intermediate":"中等奖杯",
+    "mgdr_arcade.adv.trophies.private":"士兵奖杯",
+    "mgdr_arcade.adv.trophies.specialist":"砖家奖杯",
+    "mgdr_arcade.adv.trophies.corporal":"下士奖杯",
+    "mgdr_arcade.adv.trophies.sergeant":"军士奖杯",
+    "mgdr_arcade.adv.trophies.lieutenant":"中尉奖杯",
+    "mgdr_arcade.adv.trophies.captain":"队长奖杯",
+    "mgdr_arcade.adv.trophies.general":"将军奖杯",
+
+    "mgdr_arcade.adv.trophies.desc":"奖杯收藏集",
+    "mgdr_arcade.adv.trophies.rookie.desc":"参加任何一个现代枪械数据包街机模式比赛",
+    "mgdr_arcade.adv.trophies.recruit.desc":"赢得一次街机模式比赛",
+    "mgdr_arcade.adv.trophies.beginner.desc":"连续赢得两次街机模式比赛",
+    "mgdr_arcade.adv.trophies.intermediate.desc":"连续赢得三次街机模式比赛",
+    "mgdr_arcade.adv.trophies.private.desc":"连续赢得四次街机模式比赛",
+    "mgdr_arcade.adv.trophies.specialist.desc":"连续赢得五次街机模式比赛",
+    "mgdr_arcade.adv.trophies.corporal.desc":"连续赢得六次街机模式比赛",
+    "mgdr_arcade.adv.trophies.sergeant.desc":"连续赢得七次街机模式比赛",
+    "mgdr_arcade.adv.trophies.lieutenant.desc":"连续赢得八次街机模式比赛",
+    "mgdr_arcade.adv.trophies.captain.desc":"连续赢得九次街机模式比赛",
+    "mgdr_arcade.adv.trophies.general.desc":"连续赢得十次街机模式比赛",
+
+
+
+
+    "mgdr.null":""
+
 }

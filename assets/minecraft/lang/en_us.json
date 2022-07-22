@@ -254,7 +254,7 @@
 
     "mgdr.adv.menu_title":"Modern Guns Datapack Advancements",
     "mgdr.adv.kills":"Kills",
-    "mgdr.adv.recipes":"Recipes",
+    "mgdr.adv.recipe":"Recipes",
     "mgdr.adv.catagory.kills":"Kills",
     "mgdr.adv.combat_master_knife_crafted":"Let's Dance",
     "mgdr.adv.first_kill":"Say Hello To My Li'l Friend",
@@ -270,6 +270,8 @@
     "mgdr.adv.5000_kill":"Get Some Help",
     "mgdr.adv.300_block_rifle_kill":"Good Shot",
     "mgdr.adv.500_block_rifle_kill":"Bullseye",
+    "mgdr.adv.combat_master_knife_kill":"I am the Ninja",
+
     "mgdr.adv.achieve.ak40":"The Classic Communist",
     "mgdr.adv.achieve.cbr27":"Achieving CBR-27",
     "mgdr.adv.achieve.cbt97":"Reliable Choice Of The PLA",
@@ -280,6 +282,51 @@
     "mgdr.adv.achieve.sig75t":"Tactical Heavy Metal",
     "mgdr.adv.achieve.cz117":"Achieving CZ-117",
     "mgdr.adv.achieve.origin12":"That's THICC",
+    "mgdr.adv.achieve.stim_shot":"Imagine Using A Syringe to Heal Your Wounds Instead of Eating",
+    "mgdr.adv.achieve.grenade":"Kaboom-booms",
+    "mgdr.adv.achieve.flashbang":"Get Tactical",
+
+    "mgdr.adv.use.stim_shot":"Oh~ Yeah~ That's~ Good~",
+    "mgdr.adv.use.grenade":"Fire In The Hole!",
+    "mgdr.adv.use.flashbang":"Light 'em up!",
+    "mgdr.adv.use.combat_master_knife":"Stick it up your a-hole",
+
+    "mgdr_arcade.adv.arcade":"MGDR Arcade Functions",
+    "mgdr_arcade.adv.achievements":"Arcade Achievements",
+    "mgdr_arcade.adv.matches":"Arcade Matches",
+    "mgdr_arcade.adv.attend_first_match":"First Time's the Charm!",
+
+
+
+    "mgdr_arcade.adv.trophies":"Trophies",
+    "mgdr_arcade.adv.trophies.rookie":"The Rookie Trophy",
+    "mgdr_arcade.adv.trophies.recruit":"The Recruit Trophy",
+    "mgdr_arcade.adv.trophies.beginner":"The Beginner Trophy",
+    "mgdr_arcade.adv.trophies.intermediate":"The Intermediate Trophy",
+    "mgdr_arcade.adv.trophies.private":"The Private Trophy",
+    "mgdr_arcade.adv.trophies.specialist":"The Specialist Trophy",
+    "mgdr_arcade.adv.trophies.corporal":"The Corporal Trophy",
+    "mgdr_arcade.adv.trophies.sergeant":"The Sergeant Trophy",
+    "mgdr_arcade.adv.trophies.lieutenant":"The Lieutenant Trophy",
+    "mgdr_arcade.adv.trophies.captain":"The Captain Trophy",
+    "mgdr_arcade.adv.trophies.general":"The General Trophy",
+
+    "mgdr_arcade.adv.trophies.desc":"Your Collection of Trophies",
+    "mgdr_arcade.adv.trophies.rookie.desc":"Attend your first match in any Arcade Gamemode",
+    "mgdr_arcade.adv.trophies.recruit.desc":"Win your first match in any Arcade Gamemode",
+    "mgdr_arcade.adv.trophies.beginner.desc":"Win your second match in a streak in any Arcade Gamemode",
+    "mgdr_arcade.adv.trophies.intermediate.desc":"Win your third match in a streak in any Arcade Gamemode",
+    "mgdr_arcade.adv.trophies.private.desc":"Win your fourth match in a streak in any Arcade Gamemode",
+    "mgdr_arcade.adv.trophies.specialist.desc":"Win your fifth match in a streak in any Arcade Gamemode",
+    "mgdr_arcade.adv.trophies.corporal.desc":"Win your sixth match in a streak in any Arcade Gamemode",
+    "mgdr_arcade.adv.trophies.sergeant.desc":"Win your seventh match in a streak in any Arcade Gamemode",
+    "mgdr_arcade.adv.trophies.lieutenant.desc":"Win your eighth match in a streak in any Arcade Gamemode",
+    "mgdr_arcade.adv.trophies.captain.desc":"Win your ninth match in a streak in any Arcade Gamemode",
+    "mgdr_arcade.adv.trophies.general.desc":"Win your tenth match in a streak in any Arcade Gamemode",
+
+
+
+
 
     "mgdr.adv.combat_master_knife_crafted.desc":"Craft a Combat Master Knife",
     "mgdr.adv.first_kill.desc":"Kill one mobs/player with guns",
@@ -306,5 +353,14 @@
     "mgdr.adv.achieve.sig716.desc":"Achieving a SIG-716 in your Inventory",
     "mgdr.adv.achieve.sig75t.desc":"Achieving a SIG-75-T in your Inventory",
     "mgdr.adv.achieve.cz117.desc":"Achieving a CZ-117 in your Inventory",
-    "mgdr.adv.achieve.origin12.desc":"Achieving a Origin-12 in your Inventory"
+    "mgdr.adv.achieve.origin12.desc":"Achieving a Origin-12 in your Inventory",
+    "mgdr.adv.achieve.stim_shot.desc":"Achieving a Stim Shot in your Inventory",
+
+    "mgdr.adv.use.stim_shot.desc":"Using a Stim Shot For The First Time",
+    "mgdr.adv.use.grenade.desc":"Using a Grenade For The First Time",
+    "mgdr.adv.use.flashbang.desc":"Using a Flashbang For The First Time",
+    "mgdr.adv.use.combat_master_knife.desc":"Throwing a Combat Master Knife For The First Time",
+    "mgdr.adv.combat_master_knife_kill.desc":"Kill an Entity using a Combat Master Knife For The First Time",
+
+    "mgdr.null":""
 }

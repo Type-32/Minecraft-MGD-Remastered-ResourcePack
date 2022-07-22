@@ -9,6 +9,8 @@
         {"predicate":{"custom_model_data":212001},"model":"item/car"},
         {"predicate":{"custom_model_data":212002},"model":"item/blank"},
         {"predicate":{"custom_model_data":212003},"model":"item/bullet_shell"},
+
+
         {"predicate":{"custom_model_data":212100},"model":"item/car_charging_station"},
 
         {"predicate":{"custom_model_data":212101},"model":"item/762mag"},
@@ -46,8 +48,24 @@
         {"predicate":{"custom_model_data":212221},"model":"item/ranger_foregrip"},
         {"predicate":{"custom_model_data":212222},"model":"item/supressor"},
 
-        {"predicate":{"custom_model_data":282001},"model":"item/hand/main/aiming_hand"},
-        {"predicate":{"custom_model_data":282002},"model":"item/hand/main/aiming_fire_hand"}
+
+
+        {"predicate":{"custom_model_data":311000},"model":"item/arcade/advancements/trophy_0"},
+        {"predicate":{"custom_model_data":311001},"model":"item/arcade/advancements/trophy_1"},
+        {"predicate":{"custom_model_data":311002},"model":"item/arcade/advancements/trophy_2"},
+        {"predicate":{"custom_model_data":311003},"model":"item/arcade/advancements/trophy_3"},
+        {"predicate":{"custom_model_data":311004},"model":"item/arcade/advancements/trophy_4"},
+        {"predicate":{"custom_model_data":311005},"model":"item/arcade/advancements/trophy_5"},
+        {"predicate":{"custom_model_data":311006},"model":"item/arcade/advancements/trophy_6"},
+        {"predicate":{"custom_model_data":311007},"model":"item/arcade/advancements/trophy_7"},
+        {"predicate":{"custom_model_data":311008},"model":"item/arcade/advancements/trophy_8"},
+        {"predicate":{"custom_model_data":311009},"model":"item/arcade/advancements/trophy_9"},
+        {"predicate":{"custom_model_data":311010},"model":"item/arcade/advancements/trophy_10"},
+        {"predicate":{"custom_model_data":311011},"model":"item/arcade/advancements/trophy_main"},
+
+
+
+        {"predicate":{"custom_model_data":91837408},"model":"item/copper_plate"}
 
     ]
 }

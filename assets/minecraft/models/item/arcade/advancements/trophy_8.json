@@ -1,0 +1,6 @@
+{
+    "parent":"item/generated",
+    "textures": {
+        "layer0": "item/arcade/advancement_icons/trophy_8"
+    }
+}
