@@ -48,6 +48,14 @@
         {"predicate":{"custom_model_data":212221},"model":"mgdr:item/ranger_foregrip"},
         {"predicate":{"custom_model_data":212222},"model":"mgdr:item/supressor"},
 
+        {"predicate":{"custom_model_data":213001},"model":"mgdr:item/molds/ingot_mold"},
+
+        {"predicate":{"custom_model_data":214001},"model":"mgdr:item/molten_liquids/molten_synthetic_iron"},
+        {"predicate":{"custom_model_data":214002},"model":"mgdr:item/molten_liquids/molten_synthetic_copper"},
+
+        {"predicate":{"custom_model_data":215001},"model":"mgdr:item/molding/ingots/synthetic_iron_ingot"},
+        {"predicate":{"custom_model_data":215002},"model":"mgdr:item/molding/ingots/synthetic_copper_ingot"},
+
 
 
         {"predicate":{"custom_model_data":311000},"model":"item/arcade/advancements/trophy_0"},

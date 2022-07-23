@@ -1,0 +1,6 @@
+{
+    "parent":"item/generated",
+    "textures": {
+        "layer0": "mgdr:item/molten_liquids/molten_synthetic_copper"
+    }
+}
