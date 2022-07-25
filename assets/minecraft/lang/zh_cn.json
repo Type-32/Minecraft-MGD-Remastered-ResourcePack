@@ -101,6 +101,13 @@
     "mgdr.item.ranger_foregrip":"垂直握把",
     "mgdr.item.supressor":"消音器",
 
+    "mgdr.item.ingot_mold":"锭模具",
+
+    "mgdr.item.molten_synthetic_iron":"聚合铁熔浆",
+    "mgdr.item.molten_synthetic_copper":"聚合铜熔浆",
+    "mgdr.item.synthetic_iron_ingot":"聚合铁锭",
+    "mgdr.item.synthetic_copper_ingot":"聚合铜锭",
+
     "mgdr.killstreak.uav":"UAV侦察机",
 
     "mgdr.translate.ammo.full":"满",
