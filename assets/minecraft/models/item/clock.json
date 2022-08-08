@@ -47,6 +47,7 @@
         {"predicate":{"custom_model_data":212220},"model":"mgdr:item/holosight"},
         {"predicate":{"custom_model_data":212221},"model":"mgdr:item/ranger_foregrip"},
         {"predicate":{"custom_model_data":212222},"model":"mgdr:item/supressor"},
+        {"predicate":{"custom_model_data":212223},"model":"mgdr:item/hammer"},
 
         {"predicate":{"custom_model_data":213001},"model":"mgdr:item/molds/ingot_mold"},
 
