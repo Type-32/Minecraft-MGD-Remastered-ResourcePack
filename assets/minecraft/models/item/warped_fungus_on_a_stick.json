@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/wapred_fungus_on_a_stick"
+  },
+  "overrides":[
+    {"predicate":{"custom_model_data":212223},"model":"mgdr:item/hammer"},
+
+    {"predicate":{"custom_model_data":902002},"model":"mgdr:item/null"}
+  ]
+}
